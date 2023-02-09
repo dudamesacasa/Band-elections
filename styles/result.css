@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+body {
+    background-color: #202020;
+    color: white;
+}
+
+table {
+    margin: 20px;
+    border-collapse: collapse;
+}
+
+th, td {
+    color: white;
+    text-align: center;
+}
+
+td{
+    border: 1px solid white;
+    padding: 10px;
+}
+
+.table-result {
+    display: flex;
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
